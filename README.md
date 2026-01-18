@@ -16,6 +16,11 @@ This project handles core server-side logic such as game management and real-tim
 - Game state management
 - Scalable server-side architecture
 
+## Demo
+
+![ChessX Demo](./ss/image.png)
+![ChessX Demo](./ss/image1.png)
+
 ## Setup
 
 ```bash
